@@ -10,6 +10,11 @@
       "StackName": "amplify-quasaramplifycli-dev-150447",
       "StackId": "arn:aws:cloudformation:eu-west-2:825455492612:stack/amplify-quasaramplifycli-dev-150447/74eb8e50-928a-11ed-a97e-0220c6229c4a",
       "AmplifyAppId": "dfnsuibbq5xhf"
+    },
+    "categories": {
+      "auth": {
+        "quasaramplifyclicb99f6ba": {}
+      }
     }
   }
 }
